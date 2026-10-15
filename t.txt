@@ -1,0 +1,5 @@
+git status              # что изменилось
+git add .               # добавить все изменения
+git commit -m "текст"   # закоммитить
+git push                # отправить на GitHub
+git pull                # забрать изменения
